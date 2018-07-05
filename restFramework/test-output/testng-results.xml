@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3157" started-at="2018-07-03T02:34:38Z" finished-at="2018-07-03T02:34:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3157" started-at="2018-07-03T02:34:38Z" finished-at="2018-07-03T02:34:41Z">
+      <class name="testcases.TestPublicAPI">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.TestPublicAPI@23ceabc1]" name="setUp" is-config="true" duration-ms="900" started-at="2018-07-03T08:04:37Z" finished-at="2018-07-03T08:04:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyContent()[pri:0, instance:testcases.TestPublicAPI@23ceabc1]" name="verifyContent" duration-ms="2888" started-at="2018-07-03T08:04:38Z" finished-at="2018-07-03T08:04:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContent -->
+        <test-method status="PASS" signature="verifyStatus()[pri:0, instance:testcases.TestPublicAPI@23ceabc1]" name="verifyStatus" duration-ms="171" started-at="2018-07-03T08:04:41Z" finished-at="2018-07-03T08:04:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStatus -->
+      </class> <!-- testcases.TestPublicAPI -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
