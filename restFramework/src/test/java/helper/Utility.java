@@ -8,6 +8,12 @@ import io.restassured.path.xml.XmlPath;
 public class Utility 
 {
 
+	
+	public void newmethod()
+	{
+		
+	}
+	
 	public static void verifyResponseCode200(int actual)
 	{
 		Assert.assertEquals(actual, 200);	
